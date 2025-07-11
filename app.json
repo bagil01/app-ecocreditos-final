@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "EcoCreditosSantarém",
+    "slug": "eco-creditos-santarem",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "jsc",
+    "sdkVersion": "49.0.0",
+    "platforms": ["android", "ios", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
